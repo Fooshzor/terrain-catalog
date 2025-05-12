@@ -1,0 +1,55 @@
+{
+    "version": "1.0.0",
+    "terrains": [
+      {
+        "id": "TerrainMagnetic",
+        "stickForce":                2.5,
+        "stickZoneRadius":           1.2,
+        "stickForceMultiplier":      0.8,
+        "directionChangeFactor":     1.0,
+        "originalAcceleration":      5.0,
+        "originalMaxSpeed":          10.0,
+        "originalFriction":          0.3,
+        "originalJumpForce":         7.0,
+        "originalBoostMultiplier":   1.5,
+        "maxBoostTime":              3.0,
+        "originalReboundFactor":     0.5,
+        "frictionTurn":              0.4,
+        "frictionImpactMultiplier":  0.6
+      },
+      {
+        "id": "TerrainBasic",
+        "stickForce":                1.0,
+        "stickZoneRadius":           1.0,
+        "stickForceMultiplier":      1.0,
+        "directionChangeFactor":     1.0,
+        "originalAcceleration":      1.0,
+        "originalMaxSpeed":          1.0,
+        "originalFriction":          1.0,
+        "originalJumpForce":         1.0,
+        "originalBoostMultiplier":   1.0,
+        "maxBoostTime":              1.0,
+        "originalReboundFactor":     1.0,
+        "frictionTurn":              1.0,
+        "frictionImpactMultiplier":  1.0
+      },
+      {
+        "id": "TerrainInflatable",
+        "stickForce":                1.0,
+        "stickZoneRadius":           1.0,
+        "stickForceMultiplier":      1.0,
+        "directionChangeFactor":     1.0,
+        "originalAcceleration":      1.0,
+        "originalMaxSpeed":          1.0,
+        "originalFriction":          1.0,
+        "originalJumpForce":         1.3,
+        "originalBoostMultiplier":   1.0,
+        "maxBoostTime":              1.0,
+        "originalReboundFactor":     1.3,
+        "frictionTurn":              1.0,
+        "frictionImpactMultiplier":  1.0
+      }
+      
+    ]
+  }
+  
