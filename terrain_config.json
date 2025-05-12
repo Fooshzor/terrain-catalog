@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "terrains": [
       {
         "id": "TerrainMagnetic",
@@ -42,7 +42,7 @@
         "originalAccelerationMulti":      1.0,
         "originalMaxSpeedMulti":          1.0,
         "originalFrictionMulti":          1.0,
-        "originalJumpForceMulti":         1.3,
+        "originalJumpForceMulti":         5.0,
         "originalBoostMultiplierMulti":   1.0,
         "maxBoostTimeMulti":              1.0,
         "originalReboundFactorMulti":     1.3,
